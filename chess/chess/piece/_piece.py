@@ -10,7 +10,7 @@ class chess_piece(object):
         raise NotImplementedError
 
     @staticmethod
-    def legal_moves(cls):
+    def legal_moves():
         # returns lists of all legal moves for a piece, regardless of any
         # conditions (ie queens can move 7 squares in any direction, pawns can
         # move two squares, etc)

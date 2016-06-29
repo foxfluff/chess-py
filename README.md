@@ -1,2 +1,2 @@
 # chess-py
-Chess related classes (peices/rules/etc)
+Chess related classes (pieces/rules/etc)
